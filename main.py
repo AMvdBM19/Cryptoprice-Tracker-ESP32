@@ -6,8 +6,8 @@ import urequests as requests
 import neopixel
 import uasyncio as asyncio
 
-ssid = 'TMNL-D2F311'
-password = 'PX9KS5PYJQ345MRM'
+ssid = 'WiFi-Name'
+password = 'Wifi_PassWord'
 
 # Connect to Wi-Fi
 wifi = network.WLAN(network.STA_IF)
